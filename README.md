@@ -1,2 +1,2 @@
-# hello-world
+# hello-galaxy
 my first git
